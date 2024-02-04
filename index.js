@@ -4,5 +4,5 @@ let quotes = [
   "Be yourself; everyone else is already taken. -Oscar Wilde",
 ];
 
-// get a integer between 0 and 2
+// get an integer between 0 and 2
 console.log(quotes[Math.floor(Math.random() * 3)]);
